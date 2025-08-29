@@ -3,7 +3,7 @@ Created by ifeng <br>
 Website: https://www.hidoha.net <br>
 
 # About Us
-Welcome to HiDNS. We are committed to enhancing internet accessibility for everyone by offering free domain registration with the extensions hidns.co and hidns.vip.
+HiDNS is a PDNR (Private Domain Name Registry), and we’re excited to offer free domains with the .hidns.co and .hidns.vip extensions. Sign up today to get started!
 
 # Terms of Service and Privacy Policy
 Before you begin using our services, please take a moment to review our [Terms of Service](https://www.hidoha.net/tos) and [Privacy Policy](https://www.hidoha.net/privacy-policy). By using our services, you agree to comply with and be bound by these terms.
